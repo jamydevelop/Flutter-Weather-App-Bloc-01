@@ -70,6 +70,7 @@ class HomeScreen extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
+                    //LOCATION
                     Text(
                       '📍 Sample Location',
                       style: const TextStyle(
