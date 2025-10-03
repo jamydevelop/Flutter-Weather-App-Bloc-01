@@ -1,6 +1,5 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter_weather_app_bloc_01/data/my_data.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:weather/weather.dart';
